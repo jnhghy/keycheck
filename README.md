@@ -1,0 +1,1 @@
+WordPress plugin that adds an options page to your WordPress admin that allows you do define a comma separated list of keywords that will be used to check against the content of draft posts. If any of the keywords match in the post content the post will be trashed else it will be published.
